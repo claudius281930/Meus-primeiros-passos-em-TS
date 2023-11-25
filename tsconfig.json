@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "target": "ES5",
+        "outDir": "dist",
+    }
+}
+/*
+"watch": true
+só pode ser especificada na linha de comando, 
+não diretamente no arquivo de configuração.
+*/
